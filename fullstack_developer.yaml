@@ -20,7 +20,7 @@ cv:
         summary: "Tech Stack: C#, .Net 8, Angular 18, Typescript, Git, HTML5, CSS3, JavaScript, MS SQL, Clean Architecture, Entity Framework, Redis, Docker, OpenTelemetry"
         highlights:
           - "Desarrollo de componentes web para módulo de zonificación (generación de geocercas usando API de google maps) y gestión de personal para realizar verificaciones de manera presencial"
-          - "Refactorización del back-end siguiendo los principios de arquitectura limpia, logrando así un alta cohesión y bajo acoplamiento entre capas en el sistema"
+          - "Refactorización del back-end siguiendo los principios de arquitectura limpia, logrando así una alta cohesión y bajo acoplamiento entre capas en el sistema"
           - "Desarrollo backend de algoritmos para automatización de asignaciones de visitas a potenciales clientes basados en coordenadas provistas por solicitudes"
           - "Implementación de servidor de caché Redis para ambientes de desarrollo y qa usando imágenes de docker"
           - "Integración del backend con servicios terceros para gestión de verificaciones a titular de solicitudes de crédito"
@@ -49,7 +49,7 @@ cv:
         location: "Guayaquil, Ecuador"
         summary: "Tech Stack: C#, .Net Framework, HTML5, CSS3, JavaScript, Git, MS SQL"
         highlights:
-          - "Desarrolle cambios y mejoras en ERP personalizado interno basados en requerimientos establecidos"
+          - "Desarrollé cambios y mejoras en ERP personalizado interno basados en requerimientos establecidos"
           - "Mentoría de pasantes con respecto al proyecto"
       - company: "Libélula Soft S.A."
         position: "Programador Apps Móviles"
@@ -59,7 +59,7 @@ cv:
         location: "Guayaquil, Ecuador"
         summary: "Tech Stack: Java, Android, Swift, SwiftUI, Git, MongoDB"
         highlights:
-          - "Realice mejoras en aplicativos bancarios en base a requerimientos de mesa de ayuda"
+          - "Realicé mejoras en aplicativos bancarios en base a requerimientos de mesa de ayuda"
           - "Implementé funcionalidades correspondientes a banca en línea, revisión de cambios y publicación de artefactos a las diferentes tiendas"
       - company: "Nexti Solutions S.A."
         position: "Programador Senior Full Stack"
@@ -70,7 +70,7 @@ cv:
         summary: "Tech Stack: C#, .Net Core 6, Git, RabbitMQ, Kafka, Azure Functions"
         highlights:
           - "Desarrollo de servicio serverless de notificaciones en C#, implementando arquitectura hexagonal, azure service bus, azure functions"
-          - "Dentro del módulo de seguridades, realice una mejora para parametrización de políticas en claves, pudiendo así lograr una parametrización más dinámica de las políticas basadas en json"
+          - "Dentro del módulo de seguridades, realicé una mejora para parametrización de políticas en claves, pudiendo así lograr una parametrización más dinámica de las políticas basadas en json"
       - company: "Saljuper S.A."
         position: "Analista Programador"
         date:
@@ -96,8 +96,8 @@ cv:
           - "Desarrollo y mantenimiento de aplicativo móvil para gestión de billetera electrónica para la venta de recargas electrónicas, pago de servicios en Java Android"
           - "Desarrollo de app para manejo de visitas, recaudaciones y rutas de vendedores en Java Android"
           - "Desarrollo e Implementación de módulo de Facturación Electrónica en VB .Net"
-          - "Realice nuevos procesos y mejoras a antiguos procedimientos almacenados en base de datos"
-          - "Ayude a la implementación de versionamiento de códigos usando Git y Github, pudiendo así adaptar mejores prácticas y tener una sola fuente de verdad"                   
+          - "Realicé nuevos procesos y mejoras a antiguos procedimientos almacenados en base de datos"
+          - "Ayudé a la implementación de versionamiento de códigos usando Git y Github, pudiendo así adaptar mejores prácticas y tener una sola fuente de verdad"                   
     education:
       - institution: "Universidad Católica de Santiago de Guayaquil"
         area: "Sistemas Computacionales"
