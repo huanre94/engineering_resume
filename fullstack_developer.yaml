@@ -1,5 +1,5 @@
 cv:
-  name: "Hugo Restrepo"
+  name: "Hugo Antonio Restrepo León"
   location: "Guayaquil, Ecuador"
   email: "huanre94@gmail.com"
   phone: "+593-99-136-3794"
@@ -11,114 +11,126 @@ cv:
       username: github.com/huanre94
   sections:
     experience:
-      - company: "Sipecom S.A."
-        position: "Full Stack Developer Semi Senior"
+      - company: "ILUM S.A. - Outsourcing: Cresa SA"
+        position: "Desarrollador Full Stack"
         date:
-        start_date: "2024-08"
+        start_date: "2025-06"
         end_date: present
         location: "Guayaquil, Ecuador"
-        summary: "Stack: C#, Angular"
+        summary: "Tech Stack: C#, .Net 8, Angular 18, Typescript, Git, HTML5, CSS3, JavaScript, MS SQL, Clean Architecture, Entity Framework, Redis, Docker, OpenTelemetry"
         highlights:
-          - "Developed and integrated new functionalities at employee portal using Angular, enhancing user experience."
-          - "Executed updates and improvements to the broker webpage, focusing on performance optimization and user interface enhancements."
-          - "Designed and implemented PL/SQL packages in Oracle for data processing and business logic, ensuring high performance and reliability."
-          - "Integrated backend connections to external services, leveraging APIs and secure data exchange protocols to extend system capabilities."
-          - "Optimized the performance and processing time of a bulk upload system by improving backend logic and updating project dependencies, reducing execution time from 12 to 8 minutes."
-      - company: "LibelulaSoft S.A."
-        position: "Mobile Developer"
+          - "Desarrollo de componentes web para módulo de zonificación (generación de geocercas usando API de google maps) y gestión de personal para realizar verificaciones de manera presencial"
+          - "Refactorización del back-end siguiendo los principios de arquitectura limpia, logrando así un alta cohesión y bajo acoplamiento entre capas en el sistema"
+          - "Desarrollo backend de algoritmos para automatización de asignaciones de visitas a potenciales clientes basados en coordenadas provistas por solicitudes"
+          - "Implementación de servidor de caché Redis para ambientes de desarrollo y qa usando imágenes de docker"
+          - "Integración del backend con servicios terceros para gestión de verificaciones a titular de solicitudes de crédito"
+          - "Manejo de base de datos Microsoft SQL Server usando sentencias DDL (Tablas, procedimientos almacenados, relaciones) y DML (CRUD)"
+      - company: "Sipecom S.A. - Outsourcing: Mapfre Ecuador"
+        position: "Desarrollador Full Stack"
         date:
-        start_date: "2022-06"
-        end_date: "2022-09"
-        location: "Istanbul, Türkiye"
-        summary:
+        start_date: "2024-08"
+        end_date: "2025-05"
+        location: "Guayaquil, Ecuador"
+        summary: "Tech Stack: C#, .Net Framework, .Net Core, Angular, Typescript, Git, Java, SQL Oracle, HTML5, CSS3, JavaScript, JQuery, MS SQL"
         highlights:
-          - "Designed an inventory management web application for a warehouse"
-      - company: " S.A."
-        position: "Mobile Developer"
+          - "Implementación de funcionalidad para generación en línea de endoso a terceros, reduciendo carga operativa al personal de otras áreas encargadas"
+          - "Diseño e implementación de dashboard para consulta en línea de buró de crédito Equifax, permitiendo visualizar información externa desde portal intranet"
+          - "Auditoría para uso interno garantizando el correcto uso de consulta de buro"
+          - "Mejoras en procesos para migración de información entre ambientes"
+          - "Integración con servicios de generación de claves BMI, ayudando a disminuir pasos para asistencias"
+          - "Implementación de servicio para transformación de archivos txt a pdf y envío de correos con comisiones para brokers, generando así una transformación digital de un proceso manual"
+          - "Se realizó un benchmarking y mejoramiento del rendimiento al momento de realizar carga de archivos al sistema, pasando de 20 mins a 8 mins"
+          - "Se gestionó un proceso de logueo de trazas para obtener mejor seguimiento de los procesos internos"
+      - company: "Viaxperta S.A."
+        position: "Desarrollador Full-Stack"
         date:
-        start_date: "2022-06"
-        end_date: "2022-09"
-        location: "Istanbul, Türkiye"
-        summary:
+        start_date: "2024-08"
+        end_date: "2024-08"
+        location: "Guayaquil, Ecuador"
+        summary: "Tech Stack: C#, .Net Framework, HTML5, CSS3, JavaScript, Git, MS SQL"
         highlights:
-          - "Designed an inventory management web application for a warehouse"
-      - company: "LibelulaSoft S.A."
-        position: "Mobile Developer"
+          - "Desarrolle cambios y mejoras en ERP personalizado interno basados en requerimientos establecidos"
+          - "Mentoría de pasantes con respecto al proyecto"
+      - company: "Libélula Soft S.A."
+        position: "Programador Apps Móviles"
         date:
-        start_date: "2022-06"
-        end_date: "2022-09"
-        location: "Istanbul, Türkiye"
-        summary:
+        start_date: "2023-10"
+        end_date: "2024-07"
+        location: "Guayaquil, Ecuador"
+        summary: "Tech Stack: Java, Android, Swift, SwiftUI, Git, MongoDB"
         highlights:
-          - "Designed an inventory management web application for a warehouse"                   
-    projects:
-      - name: "[Example Project](https://example.com)"
+          - "Realice mejoras en aplicativos bancarios en base a requerimientos de mesa de ayuda"
+          - "Implementé funcionalidades correspondientes a banca en línea, revisión de cambios y publicación de artefactos a las diferentes tiendas"
+      - company: "Nexti Solutions S.A."
+        position: "Programador Senior Full Stack"
         date:
-        start_date: "2024-05"
-        end_date: "present"
-        location:
-        summary: "A web application for writing essays"
+        start_date: "2023-10"
+        end_date: "2023-11"
+        location: "Guayaquil, Ecuador"
+        summary: "Tech Stack: C#, .Net Core 6, Git, RabbitMQ, Kafka, Azure Functions"
         highlights:
-          - "Launched an [iOS app](https://example.com) in 09/2024 that currently has 10k+ monthly active users"
-          - "The app is made open-source (3,000+ stars [on GitHub](https://github.com))"
-      - name: "[Teaching on Udemy](https://example.com)"
-        date: "Fall 2023"
+          - "Desarrollo de servicio serverless de notificaciones en C#, implementando arquitectura hexagonal, azure service bus, azure functions"
+          - "Dentro del módulo de seguridades, realice una mejora para parametrización de políticas en claves, pudiendo así lograr una parametrización más dinámica de las políticas basadas en json"
+      - company: "Saljuper S.A."
+        position: "Analista Programador"
+        date:
+        start_date: "2020-11"
+        end_date: "2023-09"
+        location: "Guayaquil, Ecuador"
+        summary: "Tech Stack: C#, .Net Framework, .Net Core, Angular, Typescript, Git, MSSQL, HTML5, CSS3, JavaScript, MongoDB, Docker, Linux, Visual Basic 6"
+        highlights:
+          - "Desarrollos y mejoras Front End Punto de Venta Retail en C#, lectura de balanzas (Honeywell, Datalogic, Zebra), impresión de tickets (Epson, Logic Control)"
+          - "Desarrollo Back End Punto de Venta Retail en .Net Core 7 C#"
+          - "Desarrollos y mejoras a ERP in-house en Visual Basic 6"
+          - "Creación de estructuras, vistas, procedimientos almacenados para ERP y POS en MS SQL Server 2019"
+          - "Desarrollo de API para lectura y control de inventarios. C#, .Net 7"
+          - "Desarrollo demo aplicativo móvil para gestión de inventarios mediante el uso de lector de código de barras. Android, Java"
+      - company: "Broadnet S.A."
+        position: "Analista Programador"
+        date:
+        start_date: "2015-09"
+        end_date: "2020-10"
+        location: "Guayaquil, Ecuador"
+        summary: "Tech Stack: C#, .Net Framework 4.7.2, Git, Java 11, Android, SQLite, MSSQL, HTML5, CSS3, JavaScript, Visual Basic 6"
+        highlights:
+          - "Desarrollo y mantenimiento de aplicativo móvil para gestión de billetera electrónica para la venta de recargas electrónicas, pago de servicios en Java Android"
+          - "Desarrollo de app para manejo de visitas, recaudaciones y rutas de vendedores en Java Android"
+          - "Desarrollo e Implementación de módulo de Facturación Electrónica en VB .Net"
+          - "Realice nuevos procesos y mejoras a antiguos procedimientos almacenados en base de datos"
+          - "Ayude a la implementación de versionamiento de códigos usando Git y Github, pudiendo así adaptar mejores prácticas y tener una sola fuente de verdad"                   
+    education:
+      - institution: "Universidad Católica de Santiago de Guayaquil"
+        area: "Sistemas Computacionales"
+        degree: "Ingeniero"
+        date:
         start_date:
         end_date:
-        location:
+        location: "Guayaquil, Ecuador"
         summary:
-        highlights:
-          - "Instructed the \"Statics\" course on Udemy (60,000+ students, 200,000+ hours watched)"
-    education:
-      - institution: "Stanford University"
-        area: "Computer Science"
-        degree: "PhD"
+        highlights: []
+      - institution: "Mundos E (Universidad Nacional de Córdoba)"
+        area: "DevOps"
+        degree: "Diplomatura"
         date:
-        start_date: "2023-09"
-        end_date: "present"
-        location: "Stanford, CA, USA"
+        start_date:
+        end_date:
+        location: "Córdoba, Argentina"
         summary:
-        highlights:
-          - "Working on the optimization of autonomous vehicles in urban environments"
-      - institution: "Boğaziçi University"
-        area: "Computer Engineering"
-        degree: "BS"
-        date:
-        start_date: "2018-09"
-        end_date: "2022-06"
-        location: "Istanbul, Türkiye"
-        summary:
-        highlights:
-          - "GPA: 3.9/4.0, ranked 1st out of 100 students"
-          - "Awards: Best Senior Project, High Honor"
+        highlights: []
     skills:
-      - label: "Programming"
-        details: "Proficient with Python, C++, and Git; good understanding of Web, app development, and DevOps"
-      - label: "Mathematics"
-        details: "Good understanding of differential equations, calculus, and linear algebra"
-      - label: "Languages"
-        details: "English (fluent, TOEFL: 118/120), Turkish (native)"
-    publications:
-      - title: "3D Finite Element Analysis of No-Insulation Coils"
-        authors:
-          - "Frodo Baggins"
-          - "***John Doe***"
-          - "Samwise Gamgee"
-        doi: "10.1109/TASC.2023.3340648"
-        url:
-        journal:
-        date: "2004-01"
-    extracurricular_activities:
-      - bullet: "There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*."
-      - bullet: "Each entry type has a different structure and layout. This document demonstrates all of them."
-    numbered_entries:
-      - number: "This is a numbered entry."
-      - number: "This is another numbered entry."
-      - number: "This is the third numbered entry."
-    reversed_numbered_entries:
-      - reversed_number: "This is a reversed numbered entry."
-      - reversed_number: "This is another reversed numbered entry."
-      - reversed_number: "This is the third reversed numbered entry."
+      - label: "Lenguajes de Programación"
+        details: "C#, Java, TypeScript, JavaScript, Python, Visual Basic 6, Swift"
+      - label: "Frameworks y Tecnologías"
+        details: ".Net Framework, .Net Core, .Net 8, Angular, SwiftUI, Android, Entity Framework, Clean Architecture"
+      - label: "Bases de Datos"
+        details: "MS SQL Server, Oracle SQL, MongoDB, SQLite, Redis"
+      - label: "Herramientas y DevOps"
+        details: "Git, GitHub, Docker, Azure Functions, RabbitMQ, Kafka, OpenTelemetry, Linux"
+      - label: "Web"
+        details: "HTML5, CSS3, JQuery, API REST"
+      - label: "Idiomas"
+        details: "Español (nativo), Inglés (avanzado C2)"
+
 design:
   theme: "engineeringresumes"
   page:
