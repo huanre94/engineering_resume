@@ -36,7 +36,7 @@ cv:
           - "Reduje carga operativa en áreas de negocio implementando funcionalidad backend para generación en línea de endosos a terceros"
           - "Facilité la consulta de información externa desde intranet diseñando un dashboard integrado con servicios de buró de crédito Equifax"
           - "Mejoré el control interno implementando auditoría para el uso de consultas de buró"
-          - "Agilicé la gestión de pólizas por cargas masivas optimizando procesos de creación y migración de información entre ambientes"
+          - "Agilicé la gestión de pólizas para ~10k clientes mensuales optimizando procesos de creación por cargas masivas y migración de información entre ambientes"
           - "Disminuí pasos manuales en asistencias integrando servicios para generación de claves BMI"
           - "Automaticé un proceso manual de brokers implementando un servicio para transformar archivos TXT a PDF y enviar correos con comisiones"
           - "Reducí el tiempo de carga de archivos de 20 a 8 minutos realizando benchmarking y optimización de rendimiento"
