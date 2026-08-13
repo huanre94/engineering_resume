@@ -1,0 +1,276 @@
+cv:
+  name: "Hugo Antonio Restrepo León"
+  location: "Guayaquil, Ecuador"
+  email: "huanre94@gmail.com"
+  phone: "+593-99-136-3794"
+  website:
+  social_networks:
+    - network: "LinkedIn"
+      username: linkedin.com/in/hugo-restrepo-4ba05ba2
+    - network: "GitHub"
+      username: github.com/huanre94
+  sections:
+    experience:
+      - company: "ILUM S.A. - Outsourcing: Cresa SA"
+        position: "Full Stack Developer"
+        date:
+        start_date: "2025-06"
+        end_date: present
+        location: "Guayaquil, Ecuador"
+        summary: "Tech Stack: C#, .Net 8, TypeScript, Git, MS SQL, Clean Architecture, Entity Framework, REST APIs, Redis, Docker, OpenTelemetry"
+        highlights:
+          - "Supported ~203,174 credit lines generated over 10 months for end customers by building backend components and services for a system used across ~330 stores"
+          - "Improved system maintainability and decoupling by refactoring the backend under clean architecture principles"
+          - "Increased operational efficiency by automating visit assignment for prospective customers through geolocation-based backend logic"
+          - "Optimized response times in development and QA environments by implementing Redis caching on Docker containers"
+          - "Strengthened the credit request validation flow by integrating APIs and third-party services for applicant verification"
+          - "Sustained critical business processes by designing and maintaining Microsoft SQL Server objects using DDL and DML"
+      - company: "Sipecom S.A. - Outsourcing: Mapfre Ecuador"
+        position: "Full Stack Developer"
+        date:
+        start_date: "2024-08"
+        end_date: "2025-05"
+        location: "Guayaquil, Ecuador"
+        summary: "Tech Stack: C#, .Net Framework, .Net Core, TypeScript, Git, Oracle SQL, MS SQL, REST APIs, integrations, JavaScript"
+        highlights:
+          - "Reduced operational workload for business teams by implementing backend functionality for online third-party policy endorsements"
+          - "Enabled intranet access to external credit bureau data by designing a dashboard integrated with Equifax services"
+          - "Improved internal control by implementing auditing for credit bureau queries"
+          - "Streamlined policy handling for ~10k customers per month by optimizing bulk creation and cross-environment data migration processes"
+          - "Reduced manual steps in assistance workflows by integrating services for BMI password generation"
+          - "Automated a manual broker process by implementing a service that transformed TXT files into PDFs and emailed commission reports"
+          - "Reduced file upload processing time from 20 to 8 minutes through benchmarking and performance optimization"
+          - "Improved operational traceability and support by implementing process tracking"
+      - company: "Viaxperta S.A."
+        position: "Full Stack Developer"
+        date:
+        start_date: "2024-08"
+        end_date: "2024-08"
+        location: "Guayaquil, Ecuador"
+        summary: "Tech Stack: C#, .Net Framework, HTML5, CSS3, JavaScript, Git, MS SQL"
+        highlights:
+          - "Delivered changes and enhancements to a custom internal ERP based on defined business requirements"
+          - "Mentored interns working on the project"
+      - company: "Libélula Soft S.A."
+        position: "Mobile Apps Developer"
+        date:
+        start_date: "2023-10"
+        end_date: "2024-07"
+        location: "Guayaquil, Ecuador"
+        summary: "Tech Stack: Java, Android, Swift, SwiftUI, Git, MongoDB"
+        highlights:
+          - "Delivered improvements to banking applications based on help desk requirements"
+          - "Implemented online banking features, reviewed changes, and published artifacts to the corresponding app stores"
+      - company: "Nexti Solutions S.A."
+        position: "Senior Full Stack Developer"
+        date:
+        start_date: "2023-10"
+        end_date: "2023-11"
+        location: "Guayaquil, Ecuador"
+        summary: "Tech Stack: C#, .Net Core 6, Git, RabbitMQ, Kafka, Azure Functions, Hexagonal Architecture, Messaging"
+        highlights:
+          - "Built an internal notification middleware with commercial potential for external clients by developing a serverless C# service with hexagonal architecture and event-driven messaging"
+          - "Made security administration more flexible by improving dynamic JSON-based password policy configuration"
+      - company: "Saljuper S.A."
+        position: "Software Developer Analyst"
+        date:
+        start_date: "2020-11"
+        end_date: "2023-09"
+        location: "Guayaquil, Ecuador"
+        summary: "Tech Stack: C#, .Net Framework, .Net Core, TypeScript, Git, MSSQL, REST APIs, Docker, Linux, MongoDB, Visual Basic 6"
+        highlights:
+          - "Improved operations across 5 store locations by developing Retail POS features including scale integration and ticket printing"
+          - "Supported sales processes across 5 store locations by building backend functionality for a Retail POS in .Net Core 7"
+          - "Expanded business functionality by delivering enhancements to an in-house ERP in Visual Basic 6"
+          - "Strengthened ERP and POS operations by designing SQL Server 2019 structures, views, and stored procedures"
+          - "Improved inventory control by designing a REST API in C# and .Net 7 for stock lookup and management"
+          - "Validated a mobile inventory alternative by developing an Android proof of concept with barcode scanner support"
+      - company: "Broadnet S.A."
+        position: "Software Developer Analyst"
+        date:
+        start_date: "2015-09"
+        end_date: "2020-10"
+        location: "Guayaquil, Ecuador"
+        summary: "Tech Stack: C#, .Net Framework 4.7.2, Git, Java 11, Android, SQLite, MSSQL, HTML5, CSS3, JavaScript, Visual Basic 6"
+        highlights:
+          - "Supported mobile applications used by ~100k customers by developing and maintaining an Android e-wallet for top-ups and service payments"
+          - "Improved field operations for ~20 managers by developing an Android app for visits, collections, and route management"
+          - "Expanded business capabilities by developing and implementing an Electronic Invoicing module in VB .Net"
+          - "Strengthened platform performance and support by creating new database processes and optimizing stored procedures"
+          - "Promoted better engineering practices by helping implement version control with Git and GitHub as a single source of truth"                   
+    education:
+      - institution: "Universidad Católica de Santiago de Guayaquil"
+        area: "Computer Systems"
+        degree: "Engineer"
+        date:
+        start_date:
+        end_date:
+        location: "Guayaquil, Ecuador"
+        summary:
+        highlights: []
+      - institution: "Mundos E (Universidad Nacional de Córdoba)"
+        area: "DevOps"
+        degree: "Diploma"
+        date:
+        start_date:
+        end_date:
+        location: "Córdoba, Argentina"
+        summary:
+        highlights: []
+    skills:
+      - label: "Programming Languages"
+        details: "C#, Java, TypeScript, JavaScript, Python, Visual Basic 6, Swift"
+      - label: "Frameworks and Technologies"
+        details: ".Net Framework, .Net Core, .Net 8, Entity Framework, REST APIs, Clean Architecture, Hexagonal Architecture, Angular, Android, SwiftUI"
+      - label: "Databases"
+        details: "MS SQL Server, Oracle SQL, MongoDB, SQLite, Redis"
+      - label: "Tools and DevOps"
+        details: "Git, GitHub, Docker, Azure Functions, RabbitMQ, Kafka, OpenTelemetry, Linux"
+      - label: "Backend Architecture"
+        details: "Microservices, service integrations, event-driven messaging, distributed caching, REST API design"
+      - label: "Languages"
+        details: "Spanish (native), English (advanced C2)"
+
+design:
+  theme: "engineeringresumes"
+  page:
+    size: "us-letter"
+    top_margin: "2cm"
+    bottom_margin: "2cm"
+    left_margin: "2cm"
+    right_margin: "2cm"
+    show_page_numbering: false
+    show_last_updated_date: true
+  colors:
+    text: "rgb(0, 0, 0)"
+    name: "rgb(0, 79, 144)"
+    connections: "rgb(0, 79, 144)"
+    section_titles: "rgb(0, 79, 144)"
+    links: "rgb(0, 79, 144)"
+    last_updated_date_and_page_numbering: "rgb(128, 128, 128)"
+  text:
+    font_family: "Raleway"
+    font_size: "10pt"
+    leading: "0.6em"
+    alignment: "justified"
+    date_and_location_column_alignment: "right"
+  links:
+    underline: false
+    use_external_link_icon: false
+  header:
+    name_font_family: "Raleway"
+    name_font_size: "30pt"
+    name_bold: false
+    small_caps_for_name: false
+    photo_width: "3.5cm"
+    vertical_space_between_name_and_connections: "0.7cm"
+    vertical_space_between_connections_and_first_section: "0.7cm"
+    horizontal_space_between_connections: "0.5cm"
+    connections_font_family: "Raleway"
+    separator_between_connections: ""
+    use_icons_for_connections: true
+    use_urls_as_placeholders_for_connections: false
+    make_connections_links: true
+    alignment: "left"
+  section_titles:
+    type: "with-partial-line"
+    font_family: "Raleway"
+    font_size: "1.4em"
+    bold: false
+    small_caps: false
+    line_thickness: "0.5pt"
+    vertical_space_above: "0.5cm"
+    vertical_space_below: "0.3cm"
+  entries:
+    date_and_location_width: "4.15cm"
+    left_and_right_margin: "0.2cm"
+    horizontal_space_between_columns: "0.1cm"
+    vertical_space_between_entries: "1.2em"
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: "•"
+    nested_bullet: "-"
+    top_margin: "0.25cm"
+    left_margin: "0cm"
+    vertical_space_between_highlights: "0.25cm"
+    horizontal_space_between_bullet_and_highlight: "0.5em"
+    summary_left_margin: "0cm"
+  entry_types:
+    one_line_entry:
+      template: "**LABEL:** DETAILS"
+    education_entry:
+      main_column_first_row_template: "**INSTITUTION**, AREA -- LOCATION"
+      degree_column_template: "**DEGREE**"
+      degree_column_width: "1cm"
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: "DATE"
+    normal_entry:
+      main_column_first_row_template: "**NAME** -- **LOCATION**"
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: "DATE"
+    experience_entry:
+      main_column_first_row_template: "**POSITION**, COMPANY -- LOCATION"
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: "DATE"
+    publication_entry:
+      main_column_first_row_template: "**TITLE**"
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: "DATE"
+locale:
+  language: "en"
+  phone_number_format: "national"
+  page_numbering_template: "NAME - Page PAGE_NUMBER of TOTAL_PAGES"
+  last_updated_date_template: "Last updated in TODAY"
+  date_template: "MONTH_ABBREVIATION YEAR"
+  month: "month"
+  months: "months"
+  year: "year"
+  years: "years"
+  present: "present"
+  to: "–"
+  abbreviations_for_months:
+    - "Jan"
+    - "Feb"
+    - "Mar"
+    - "Apr"
+    - "May"
+    - "June"
+    - "July"
+    - "Aug"
+    - "Sept"
+    - "Oct"
+    - "Nov"
+    - "Dec"
+  full_names_of_months:
+    - "January"
+    - "February"
+    - "March"
+    - "April"
+    - "May"
+    - "June"
+    - "July"
+    - "August"
+    - "September"
+    - "October"
+    - "November"
+    - "December"
+rendercv_settings:
+  date: "2025-03-01"
+  bold_keywords: []
