@@ -53,7 +53,7 @@
   header-space-below-headline: 0.2cm,
   header-space-below-connections: 0.7cm,
   header-connections-hyperlink: true,
-  header-connections-show-icons: true,
+  header-connections-show-icons: false,
   header-connections-display-urls-instead-of-usernames: false,
   header-connections-separator: "",
   header-connections-space-between-connections: 0.5cm,
@@ -91,11 +91,11 @@
   #headline([Full Stack Developer (.NET + Angular)])
 
 #connections(
-  [#connection-with-icon("location-dot")[Guayaquil, Ecuador]],
-  [#link("mailto:huanre94@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[huanre94\@gmail.com]]],
-  [#link("tel:+593-99-136-3794", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[099 136 3794]]],
-  [#link("https://linkedin.com/in/linkedin.com/in/hugo-restrepo-4ba05ba2", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[linkedin.com\/in\/hugo-restrepo-4ba05ba2]]],
-  [#link("https://github.com/github.com/huanre94", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[github.com\/huanre94]]],
+  [Guayaquil, Ecuador],
+  [#link("mailto:huanre94@gmail.com", icon: false, if-underline: false, if-color: false)[huanre94\@gmail.com]],
+  [#link("tel:+593-99-136-3794", icon: false, if-underline: false, if-color: false)[099 136 3794]],
+  [#link("https://linkedin.com/in/linkedin.com/in/hugo-restrepo-4ba05ba2", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/hugo-restrepo-4ba05ba2]],
+  [#link("https://github.com/github.com/huanre94", icon: false, if-underline: false, if-color: false)[github.com\/huanre94]],
 )
 
 

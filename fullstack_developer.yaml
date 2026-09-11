@@ -246,4 +246,9 @@ locale:
   language: "spanish"
 settings:
   current_date: "today"
+  render_command:
+    output_folder: "rendercv_output"
+    dont_generate_markdown: true
+    dont_generate_html: true
+    dont_generate_png: true
   bold_keywords: []
