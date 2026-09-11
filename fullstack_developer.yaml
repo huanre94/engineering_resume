@@ -182,7 +182,7 @@ design:
     space_below_connections: "0.7cm"
     connections:
       separator: ""
-      show_icons: true
+      show_icons: false
       display_urls_instead_of_usernames: false
       hyperlink: true
       phone_number_format: national
